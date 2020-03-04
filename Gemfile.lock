@@ -1,0 +1,5 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    bootstrap-sass (= 3.2.0.3)
+      chloride (< 0.3.0)
